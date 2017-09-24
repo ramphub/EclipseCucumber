@@ -4,13 +4,17 @@ Basic template for a Cucumber - Selenium - Eclipse project
 
 I wanted to test drive selenium with cucumber. In the process I installed plugins, configured POM and thought I can document it all to share it along. 
 
+It may also serve as a starting point to setup/learn GIT, Eclipse environment which will be our dev setup.
+
 ## Getting Started
 
 
 ### Prerequisites
 
 - Eclipse IDE 
-- Knowledge to install plugins in Eclipse 
+- Knowledge to install plugins in Eclipse :
+  As simple as going to Help -> Install New Software 
+  and add the update site links below in Installing section below.
 
 
 ### Installing
@@ -18,7 +22,15 @@ I wanted to test drive selenium with cucumber. In the process I installed plugin
 #### Cucumber Plugin For Eclipse
 
 ```
-Install Cucumber plugin from : https://cucumber.io/cucumber-eclipse/update-site
+Install Cucumber plugin from 
+
+Update site : https://cucumber.io/cucumber-eclipse/update-site
+
+Install Terminal TM plugin (once installed, use CTRL + ALT + T to open terminal within eclipse. It will be useful
+too work with git sometimes).
+
+Update site : http://download.eclipse.org/tm/terminal/marketplace
+
 ```
 
 And Clone this project and open it in Eclipse.
