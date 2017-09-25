@@ -6,6 +6,8 @@ I wanted to test drive selenium with cucumber. In the process I installed plugin
 
 It may also serve as a starting point to setup/learn GIT, Eclipse environment which will be our dev setup.
 
+FEEL FREE TO COMMIT/CHANGE/IMPROVE this project. You can practice GIT commands with it too..
+
 ## Getting Started
 
 
